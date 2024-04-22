@@ -84,6 +84,4 @@
 
 </div>
 
-  <img src="https://raw.githubusercontent.com/saurabhkumarrai-git/saurabhkumarrai-git/output/snake.svg" alt="Snake animation" />
-
-###
+  
