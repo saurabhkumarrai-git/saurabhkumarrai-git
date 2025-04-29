@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Web Developer, I am a 4th Year CSE undergraduate Student. A Web Developer and a Tech Enthusiast, Exploring the limitless possibilities of Web Development, 🌐🚀 and who is obsessed with the idea of improving himself and wants a platform to grow and accelerate #WebDev #JavaScript...</h3>
+<h3 align="center">Web Developer, Front-End Developer with 1.5 years of experience building responsive, high-performance web applications. Skilled in HTML5, CSS3, JavaScript, React.js, Bootstrap, and UI/UX design. Strong focus on web performance, responsive layouts, and scalable code. B.Tech Computer Science graduate, passionate about clean interfaces, cross-functional collaboration, and continuous learning.ebDev #JavaScript...</h3>
 
 ###
 
